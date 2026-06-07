@@ -1,10 +1,13 @@
 # Results
 
-This folder contains model training outputs, plots, screenshots, and optional videos generated during the reinforcement learning experiments.
+This folder contains output files from the reinforcement learning experiments.
 
-Possible outputs include:
+Possible results include:
 
-- Cumulative reward plots
+- Training reward plots
 - Epsilon decay plots
-- Final trained agent screenshots
-- CartPole demonstration video
+- Agent performance screenshots
+- Environment demonstration videos
+- Final evaluation results
+
+Currently, the main experiment outputs are available inside the notebooks.
