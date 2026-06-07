@@ -1,0 +1,12 @@
+
+## `requirements.txt`
+
+Create `requirements.txt` and paste:
+
+```text
+numpy
+pandas
+matplotlib
+gym
+jupyter
+pyvirtualdisplay
